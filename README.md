@@ -6,3 +6,4 @@ Vous trouver mes Badges [ici](https://www.codecademy.com/fr/users/Ben135587/achi
 
 ## Exercice 2
 Mettre à jour le CV de la semaine 2 en utilisant le CSS
+Voir travail publier en semaine 2
